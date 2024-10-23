@@ -1,6 +1,7 @@
 ## Hi, I'm Selen 🫧
 
 🌱 Studying Computer Science at the İstanbul University, Turkey
+
 💭 Curently learning about AI and Algorithms
 
 ## Tech Stack 👾
